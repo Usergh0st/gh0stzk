@@ -5,25 +5,25 @@
 # https://github.com/gh0stzk/dotfiles
 
 # (OxoCarbon) colorscheme
-bg="#161616"
-fg="#ffffff"
+bg="#0c050d"
+fg="#edcade"
 
-black="#262626"
-red="#ee5396"
-green="#42be65"
-yellow="#ffe97b"
-blue="#33b1ff"
-magenta="#ff7eb6"
-cyan="#3ddbd9"
-white="#dde1e6"
-blackb="#393939"
-redb="#ee5396"
-greenb="#42be65"
-yellowb="#ffe97b"
-blueb="#33b1ff"
-magentab="#ff7eb6"
-cyanb="#3ddbd9"
-whiteb="#ffffff"
+black="#0c050d"
+red="#702548"
+green="#9D2F5F"
+yellow="#DB2772"
+blue="#BC4962"
+magenta="#DD993E"
+cyan="#E15994"
+white="#edcade"
+blackb="#a58d9b"
+redb="#702548"
+greenb="#9D2F5F"
+yellowb="#DB2772"
+blueb="#BC4962"
+magentab="#DD993E"
+cyanb="#E15994"
+whiteb="#edcade"
 
 accent_color="#212121"
 arch_icon="#0f94d2"
@@ -38,17 +38,17 @@ NORMAL_BC="#33b1ff"		# Normal border color
 FOCUSED_BC="#42be65"	# Focused border color
 
 # Terminal font & size
-term_font_size="10"
-term_font_name="JetBrainsMono Nerd Font"
+term_font_size="12"
+term_font_name="Cascadia Code"
 
 # Picom options
 P_FADE="true"			# Fade true|false
 P_SHADOWS="true"		# Shadows true|false
-SHADOW_C="#000000"		# Shadow color
-P_CORNER_R="6"			# Corner radius (0 = disabled)
+SHADOW_C="#DB2771"		# Shadow color
+P_CORNER_R="5"			# Corner radius (0 = disabled)
 P_BLUR="false"			# Blur true|false
 P_ANIMATIONS="@"		# (@ = enable) (# = disable)
-P_TERM_OPACITY="1.0"	# Terminal transparency. Range: 0.1 - 1.0 (1.0 = disabled)
+P_TERM_OPACITY="0.9"	# Terminal transparency. Range: 0.1 - 1.0 (1.0 = disabled)
 
 # Dunst
 dunst_offset='(20, 20)'
@@ -106,4 +106,4 @@ geany_theme="z0mbi3-OxoCarbon"
 ENGINE="Theme"
 CUSTOM_DIR="/path/to/dir"
 CUSTOM_WALL="/path/to/image"
-CUSTOM_ANIMATED="$HOME/.config/bspwm/src/assets/animated_wall.mp4"
+CUSTOM_ANIMATED="/home/usergh0st/Vídeos/mylivewallpapers.com-Pink-Space-Man.mp4"
